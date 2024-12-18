@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="abc_decor_view_status_guard_light" id="0x7f060006" />
+    <public type="color" name="bright_foreground_disabled_material_dark" id="0x7f060021" />
+    <public type="color" name="cardview_light_background" id="0x7f06002a" />
+    <public type="color" name="colorAccentOmelette" id="0x7f060034" />
+    <public type="color" name="colorCoolBlue" id="0x7f06003b" />
+    <public type="color" name="colorGreatGrey" id="0x7f06003d" />
+    <public type="color" name="colorGreaterGrey" id="0x7f06003e" />
+    <public type="color" name="colorPerfectPink" id="0x7f060041" />
+    <public type="color" name="colorPrimaryLightPixel" id="0x7f06004e" />
+    <public type="color" name="colorPrimaryLightRuby" id="0x7f060052" />
+    <public type="color" name="colorPrimaryLightSai" id="0x7f060053" />
+    <public type="color" name="colorPrimaryPixel" id="0x7f060056" />
+    <public type="color" name="colorPureWhite" id="0x7f06005a" />
+    <public type="color" name="colorTextPrimaryDark2" id="0x7f06005b" />
+    <public type="color" name="colorTextPrimaryOmelette" id="0x7f060060" />
+    <public type="color" name="colorTextSecondaryOmelette" id="0x7f06006a" />
+    <public type="color" name="design_dark_default_color_on_background" id="0x7f060073" />
+    <public type="color" name="design_dark_default_color_on_surface" id="0x7f060077" />
+    <public type="color" name="design_default_color_background" id="0x7f06007e" />
+    <public type="color" name="design_default_color_on_error" id="0x7f060081" />
+    <public type="color" name="design_default_color_on_primary" id="0x7f060082" />
+    <public type="color" name="design_default_color_surface" id="0x7f06008a" />
+    <public type="color" name="design_fab_stroke_top_inner_color" id="0x7f060091" />
+    <public type="color" name="design_fab_stroke_top_outer_color" id="0x7f060092" />
+    <public type="color" name="mtrl_btn_transparent_bg_color" id="0x7f0600cc" />
+    <public type="color" name="primary_text_default_material_dark" id="0x7f0600fb" />
+    <public type="color" name="primary_text_disabled_material_dark" id="0x7f0600fd" />
+    <public type="color" name="ripple_material_dark" id="0x7f060100" />
+    <public type="color" name="secondary_text_default_material_dark" id="0x7f060102" />
+    <public type="color" name="secondary_text_disabled_material_dark" id="0x7f060104" />
+    <public type="color" name="textColorPrimary" id="0x7f060117" />
+    <public type="color" name="textColorSecondary" id="0x7f060118" />
+    <public type="color" name="tooltip_background_light" id="0x7f06011b" />
+</resources>

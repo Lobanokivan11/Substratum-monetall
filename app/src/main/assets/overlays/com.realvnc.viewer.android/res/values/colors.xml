@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="almost_white">@android:color/system_neutral2_50</color>
+    <color name="background_floating_material_light">@android:color/system_neutral2_50</color>
+    <color name="branded_grey">@android:color/system_accent1_600</color>
+    <color name="fragment_background">@android:color/system_neutral2_50</color>
+    <color name="ic_launcher_background">@android:color/system_accent1_600</color>
+    <color name="primary_blue">@android:color/system_accent1_600</color>
+    <color name="primary_dark_blue">@android:color/system_accent1_600</color>
+    <color name="primary_dark_blue_dimmed">@android:color/system_accent1_600</color>
+    <color name="primary_light_blue">@android:color/system_accent1_100</color>
+    <color name="vnc_green">@android:color/system_accent1_600</color>
+    <color name="vnc_red">@android:color/system_accent1_600</color>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="mr_dynamic_dialog_route_text_color_dark" id="0x7f01002f" />
+    <public type="color" name="white" id="0x7f010030" />
+    <public type="color" name="primary_text_default_material_dark" id="0x7f010031" />
+    <public type="color" name="mr_dynamic_dialog_background_light" id="0x7f010032" />
+    <public type="color" name="mr_cast_meta_default_text_color" id="0x7f010033" />
+    <public type="color" name="m3_ref_palette_tertiary100" id="0x7f010034" />
+    <public type="color" name="m3_ref_palette_secondary100" id="0x7f010035" />
+    <public type="color" name="m3_ref_palette_primary100" id="0x7f010036" />
+    <public type="color" name="m3_ref_palette_neutral_variant100" id="0x7f010037" />
+    <public type="color" name="m3_ref_palette_neutral100" id="0x7f010038" />
+    <public type="color" name="m3_ref_palette_error100" id="0x7f010039" />
+    <public type="color" name="design_default_color_surface" id="0x7f01003a" />
+    <public type="color" name="design_default_color_on_primary" id="0x7f01003b" />
+    <public type="color" name="design_default_color_on_error" id="0x7f01003c" />
+    <public type="color" name="design_dark_default_color_on_surface" id="0x7f01003d" />
+    <public type="color" name="design_dark_default_color_on_background" id="0x7f01003e" />
+    <public type="color" name="cast_libraries_material_featurehighlight_text_header_color" id="0x7f01003f" />
+    <public type="color" name="cast_libraries_material_featurehighlight_text_body_color" id="0x7f010040" />
+    <public type="color" name="cast_expanded_controller_text_color" id="0x7f010041" />
+    <public type="color" name="cast_expanded_controller_ad_in_progress_text_color" id="0x7f010042" />
+    <public type="color" name="cast_expanded_controller_loading_indicator_color" id="0x7f010043" />
+    <public type="color" name="abc_decor_view_status_guard_light" id="0x7f010045" />
+    <public type="color" name="cardview_light_background" id="0x7f010046" />
+    <public type="color" name="color_primary_disabled" id="0x7f010047" />
+    <public type="color" name="key_color" id="0x7f010048" />
+    <public type="color" name="color_primary_rollover" id="0x7f010049" />
+    <public type="color" name="color_primary_pressed" id="0x7f01004a" />
+    <public type="color" name="swipe_add_action_bg" id="0x7f01004b" />
+    <public type="color" name="swipe_delete_action_bg" id="0x7f01004c" />
+    <public type="color" name="swipe_download_action_bg" id="0x7f01004d" />
+    <public type="color" name="swipe_play_next_action_bg" id="0x7f01004e" />
+    <public type="color" name="swipe_play_last_action_bg" id="0x7f01004f" />
+    <public type="color" name="background_color_layer1" id="0x7f010050" />
+    <public type="color" name="background_color" id="0x7f010051" />
+    <public type="color" name="button_background" id="0x7f010052" />
+</resources>

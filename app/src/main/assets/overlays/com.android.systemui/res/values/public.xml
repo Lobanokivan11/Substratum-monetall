@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="MaterialYou_100" id="0x7f01001c" />
+    <public type="color" name="navigation_bar_home_handle_dark_color" id="0x7f01001d" />
+    <public type="color" name="navigation_bar_home_handle_light_color" id="0x7f01001e" />
+    <public type="color" name="op_home_handle_dark_color" id="0x7f01001f" />
+    <public type="color" name="op_home_handle_light_color" id="0x7f010020" />
+</resources>

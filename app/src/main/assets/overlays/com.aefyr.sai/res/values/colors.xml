@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="abc_decor_view_status_guard_light">@android:color/system_neutral2_50</color>
+    <color name="bright_foreground_disabled_material_dark">@android:color/system_neutral2_50</color>
+    <color name="cardview_light_background">@android:color/system_neutral2_50</color>
+    <color name="colorAccentOmelette">@android:color/system_neutral2_50</color>
+    <color name="colorCoolBlue">@android:color/system_accent1_600</color>
+    <color name="colorGreatGrey">@android:color/system_accent2_800</color>
+    <color name="colorGreaterGrey">@android:color/system_accent2_800</color>
+    <color name="colorPerfectPink">@android:color/system_accent1_600</color>
+    <color name="colorPrimaryLightPixel">@android:color/system_neutral2_50</color>
+    <color name="colorPrimaryLightRuby">@android:color/system_accent2_800</color>
+    <color name="colorPrimaryLightSai">@android:color/system_neutral2_50</color>
+    <color name="colorPrimaryPixel">@android:color/system_neutral2_50</color>
+    <color name="colorPureWhite">@android:color/system_neutral2_50</color>
+    <color name="colorTextPrimaryDark2">@android:color/system_neutral2_50</color>
+    <color name="colorTextPrimaryOmelette">@android:color/system_neutral2_50</color>
+    <color name="colorTextSecondaryOmelette">@android:color/system_neutral2_50</color>
+    <color name="design_dark_default_color_on_background">@android:color/system_neutral2_50</color>
+    <color name="design_dark_default_color_on_surface">@android:color/system_neutral2_50</color>
+    <color name="design_default_color_background">@android:color/system_neutral2_50</color>
+    <color name="design_default_color_on_error">@android:color/system_neutral2_50</color>
+    <color name="design_default_color_on_primary">@android:color/system_neutral2_50</color>
+    <color name="design_default_color_surface">@android:color/system_neutral2_50</color>
+    <color name="design_fab_stroke_top_inner_color">@android:color/system_neutral2_50</color>
+    <color name="design_fab_stroke_top_outer_color">@android:color/system_neutral2_50</color>
+    <color name="mtrl_btn_transparent_bg_color">@android:color/system_neutral2_50</color>
+    <color name="primary_text_default_material_dark">@android:color/system_neutral2_50</color>
+    <color name="primary_text_disabled_material_dark">@android:color/system_neutral2_50</color>
+    <color name="ripple_material_dark">@android:color/system_neutral2_50</color>
+    <color name="secondary_text_default_material_dark">@android:color/system_neutral2_50</color>
+    <color name="secondary_text_disabled_material_dark">@android:color/system_neutral2_50</color>
+    <color name="textColorPrimary">@android:color/system_neutral2_50</color>
+    <color name="textColorSecondary">@android:color/system_neutral2_50</color>
+    <color name="tooltip_background_light">@android:color/system_neutral2_50</color>
+</resources>

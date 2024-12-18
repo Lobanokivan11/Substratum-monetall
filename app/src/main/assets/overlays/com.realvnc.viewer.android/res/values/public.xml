@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="almost_white" id="0x7f06001d" />
+    <public type="color" name="background_floating_material_light" id="0x7f06001f" />
+    <public type="color" name="branded_grey" id="0x7f060023" />
+    <public type="color" name="fragment_background" id="0x7f06004c" />
+    <public type="color" name="ic_launcher_background" id="0x7f06004f" />
+    <public type="color" name="primary_blue" id="0x7f060068" />
+    <public type="color" name="primary_dark_blue" id="0x7f060069" />
+    <public type="color" name="primary_dark_blue_dimmed" id="0x7f06006b" />
+    <public type="color" name="primary_light_blue" id="0x7f06006e" />
+    <public type="color" name="vnc_green" id="0x7f060088" />
+    <public type="color" name="vnc_red" id="0x7f06008a" />
+</resources>

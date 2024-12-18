@@ -11,7 +11,6 @@ buildscript {
     dependencies {
         classpath("com.android.tools.build:gradle:7.4.2")
         classpath(kotlin("gradle-plugin", version = Constants.kotlinVersion))
-	implementation("org.jetbrains.kotlin:kotlin-stdlib:2.1.0")
     }
 }
 

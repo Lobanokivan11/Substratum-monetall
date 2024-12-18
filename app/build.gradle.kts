@@ -17,7 +17,6 @@ import javax.crypto.spec.SecretKeySpec
 plugins {
     id("com.android.application")
     id("kotlin-android")
-    id("kotlin-android-extensions")
 }
 
 
@@ -52,6 +51,9 @@ android {
         buildConfigField("byte[]", "DECRYPTION_KEY", key.joinToString(prefix = "{", postfix = "}"))
         buildConfigField("byte[]", "IV_KEY", ivKey.joinToString(prefix = "{", postfix = "}"))
         resValue("string", "encryption_status", if (shouldEncrypt()) "onCompileVerify" else "false")
+    }
+    buildFeatures {
+        viewBinding = true
     }
     buildTypes {
         getByName("debug") {

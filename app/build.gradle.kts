@@ -92,6 +92,7 @@ dependencies {
     implementation(kotlin("stdlib-jdk8"))
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("org.jetbrains.kotlin:kotlin-stdlib")
+    implementation(kotlin("stdlib"))
 }
 
 // Themers: DO NOT MODIFY ANYTHING BELOW

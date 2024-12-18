@@ -27,8 +27,11 @@ jobs:
         distribution: 'temurin'
         cache: gradle
         
+
+    - name: CHMOD GRADLEW
+      run: chmod 777 ./gradlew
     - name: Build with Gradle
-      run: gradle build
+      run: ./gradlew build
     - uses: actions/cache@v4
       with:
         path: |

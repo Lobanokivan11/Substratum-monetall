@@ -17,7 +17,6 @@ import javax.crypto.spec.SecretKeySpec
 plugins {
     id("com.android.application")
     id("kotlin-android")
-    id("java")
 }
 
 java {

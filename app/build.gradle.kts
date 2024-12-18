@@ -17,7 +17,14 @@ import javax.crypto.spec.SecretKeySpec
 plugins {
     id("com.android.application")
     id("kotlin-android")
+    id("java")
 }
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_11
+    targetCompatibility = JavaVersion.VERSION_11
+}
+
 
 val key = ByteArray(16).apply {
     Random().nextBytes(this)

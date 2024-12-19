@@ -91,7 +91,7 @@ android {
 
 dependencies {
     //implementation(fileTree(include = ["*.jar"], dir = "libs"))
-    implementation("com.github.javiersantos:PiracyChecker:1.2.5")
+    implementation("com.github.javiersantos:PiracyChecker")
     implementation(kotlin("stdlib-jdk8"))
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("org.jetbrains.kotlin:kotlin-stdlib")

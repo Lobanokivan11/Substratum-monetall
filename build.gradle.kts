@@ -5,6 +5,7 @@ buildscript {
     extra["kotlin_version"] = Constants.kotlinVersion
     repositories {
         google()
+        mavenLocal()
         mavenCentral()
     }
 

@@ -68,7 +68,7 @@ class SubstratumLauncher : Activity() {
 
         /* STEP 2: Ensure that our support is added where it belongs */
         val action = intent.action
-        val sharedPref = getPreferences(Context.MODE_PRIVATE)
+        val sharedPref = getPreferences(MODE_PRIVATE)
         var verified = false
         if ((action == substratumIntentData) or (action == getKeysIntent)) {
             // Assume this called from organization's app

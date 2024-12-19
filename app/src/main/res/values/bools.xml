@@ -1,0 +1,4 @@
+<resources>
+    <bool name="ThemeSupportLegacy">true</bool>
+    <bool name="ThemeSupportSamsung">true</bool>
+</resources>

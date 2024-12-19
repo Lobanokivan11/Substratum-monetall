@@ -1,0 +1,3 @@
+<resources>
+    <style name="DialogStyle" parent="@style/Theme.AppCompat.Light.Dialog.Alert" />
+</resources>

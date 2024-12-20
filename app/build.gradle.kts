@@ -28,10 +28,10 @@ val ivKey = ByteArray(16).apply {
     Random().nextBytes(this)
 }
 
-task generateVersionTxt {
+tasks.register("generateVersionTxt") {
     doLast {
-        file("./version.txt").text = android.defaultConfig.versionName 
-	}
+        file("./version.txt").writeText(android.defaultConfig.versionName)
+    }
 }
 
 android {

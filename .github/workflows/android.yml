@@ -32,6 +32,16 @@ jobs:
       run: chmod 777 ./gradlew
     - name: Build with Gradle
       run: gradle build
+    - name: Build Debug APK
+      run: gradle assembleDebug
+    - name: Generate version.txt for Hub release
+      run: gradle generateVersionTxt
+    - name: Releasing using Hub
+      uses: valley-fordham/action-release-debugapk@master
+      env:
+       GITHUB_TOKEN: ${{ secrets.TOKEN }}
+       APP_FOLDER: app
+       RELEASE_TITLE: New Build
     - uses: actions/cache@v4
       with:
         path: |
@@ -40,3 +50,5 @@ jobs:
         key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle*', '**/gradle-wrapper.properties') }}
         restore-keys: |
           ${{ runner.os }}-gradle-
+
+

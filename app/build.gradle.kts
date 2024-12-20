@@ -28,6 +28,11 @@ val ivKey = ByteArray(16).apply {
     Random().nextBytes(this)
 }
 
+task generateVersionTxt {
+    doLast {
+        file("./version.txt").text = android.defaultConfig.versionName = }
+}
+
 android {
 
     compileSdk = 33

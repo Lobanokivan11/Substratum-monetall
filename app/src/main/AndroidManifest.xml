@@ -20,7 +20,7 @@
         tools:ignore="GoogleAppIndexingWarning"
         android:extractNativeLibs="false">
 
-        <activity android:name="substratum.theme.template.SubstratumLauncher">
+        <activity android:name="substratum.monet.all.SubstratumLauncher">
             <intent-filter>
                 <action android:name="projekt.substratum.THEME"/>
                 <category android:name="android.intent.category.DEFAULT"/>

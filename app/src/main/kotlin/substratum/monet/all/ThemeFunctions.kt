@@ -6,9 +6,9 @@ import android.content.pm.PackageManager
 import android.content.pm.Signature
 import android.os.RemoteException
 import substratum.monet.all.BuildConfig
-import substratum.theme.template.AdvancedConstants.BLACKLISTED_APPLICATIONS
-import substratum.theme.template.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
-import substratum.theme.template.AdvancedConstants.OTHER_THEME_SYSTEMS
+import substratum.monet.all.AdvancedConstants.BLACKLISTED_APPLICATIONS
+import substratum.monet.all.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
+import substratum.monet.all.AdvancedConstants.OTHER_THEME_SYSTEMS
 
 @Suppress("ConstantConditionIf")
 object ThemeFunctions {

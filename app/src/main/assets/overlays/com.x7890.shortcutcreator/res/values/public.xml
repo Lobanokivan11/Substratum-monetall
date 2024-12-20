@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="colorAccent" id="0x7f05002a" />
+    <public type="color" name="colorBackground" id="0x7f05002b" />
+    <public type="color" name="colorBackgroundTranslucent" id="0x7f05002c" />
+    <public type="color" name="colorItemButton" id="0x7f05002d" />
+    <public type="color" name="colorItemButtonText" id="0x7f05002e" />
+    <public type="color" name="colorItemCardBackgroundDark" id="0x7f05002f" />
+    <public type="color" name="colorItemCollectedCorner" id="0x7f050030" />
+    <public type="color" name="colorItemText" id="0x7f050031" />
+    <public type="color" name="colorPrimary" id="0x7f050032" />
+    <public type="color" name="colorPrimaryDark" id="0x7f050033" />
+    <public type="color" name="material_grey_50" id="0x7f050056" />
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="actionbar_text_color" id="0x7f06001e" />
+    <public type="color" name="blue" id="0x7f06002a" />
+    <public type="color" name="button_material_light" id="0x7f060036" />
+    <public type="color" name="cardview_light_background" id="0x7f060039" />
+    <public type="color" name="colorAccent" id="0x7f06003c" />
+    <public type="color" name="colorPrimary" id="0x7f06003d" />
+    <public type="color" name="color_auto_lib_wwapi_background_1" id="0x7f06003f" />
+    <public type="color" name="color_auto_lib_wwapi_textColor_3" id="0x7f060041" />
+    <public type="color" name="content_text_color" id="0x7f060043" />
+    <public type="color" name="deep_sky_blue_opacity_23" id="0x7f060047" />
+    <public type="color" name="gray_light" id="0x7f060067" />
+    <public type="color" name="gray_line" id="0x7f060069" />
+    <public type="color" name="highlighted_text_material_light" id="0x7f060075" />
+    <public type="color" name="material_deep_teal_500" id="0x7f060080" />
+    <public type="color" name="material_grey_100" id="0x7f060081" />
+    <public type="color" name="no_favorite_title" id="0x7f0600a2" />
+    <public type="color" name="primaryColor" id="0x7f0600b0" />
+    <public type="color" name="primaryTextColor" id="0x7f0600b4" />
+    <public type="color" name="primary_text_default_material_dark" id="0x7f0600b9" />
+    <public type="color" name="secondaryTextColor" id="0x7f0600c8" />
+    <public type="color" name="success_color" id="0x7f0600d5" />
+    <public type="color" name="tabSelectedTextColor" id="0x7f0600dc" />
+    <public type="color" name="white" id="0x7f0600e3" />
+    <public type="color" name="windowBackground" id="0x7f0600e5" />
+</resources>

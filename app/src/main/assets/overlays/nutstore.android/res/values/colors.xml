@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_text_color">@android:color/system_neutral2_50</color>
+    <color name="blue">@android:color/system_accent1_600</color>
+    <color name="button_material_light">@android:color/system_accent1_100</color>
+    <color name="cardview_light_background">@android:color/system_neutral2_50</color>
+    <color name="colorAccent">@android:color/system_accent1_600</color>
+    <color name="colorPrimary">@android:color/system_neutral2_50</color>
+    <color name="color_auto_lib_wwapi_background_1">@android:color/system_neutral2_50</color>
+    <color name="color_auto_lib_wwapi_textColor_3">@android:color/system_neutral2_50</color>
+    <color name="content_text_color">@android:color/system_accent1_600</color>
+    <color name="deep_sky_blue_opacity_23">@android:color/system_accent1_100</color>
+    <color name="gray_light">@android:color/system_neutral2_50</color>
+    <color name="gray_line">@android:color/system_accent1_100</color>
+    <color name="highlighted_text_material_light">@android:color/system_accent1_100</color>
+    <color name="material_deep_teal_500">@android:color/system_accent1_600</color>
+    <color name="material_grey_100">@android:color/system_neutral2_50</color>
+    <color name="no_favorite_title">@android:color/system_accent1_600</color>
+    <color name="primaryColor">@android:color/system_accent1_600</color>
+    <color name="primaryTextColor">@android:color/system_neutral2_50</color>
+    <color name="primary_text_default_material_dark">@android:color/system_neutral2_50</color>
+    <color name="secondaryTextColor">@android:color/system_neutral2_50</color>
+    <color name="success_color">@android:color/system_accent1_600</color>
+    <color name="tabSelectedTextColor">@android:color/system_accent1_600</color>
+    <color name="white">@android:color/system_neutral2_50</color>
+    <color name="windowBackground">@android:color/system_neutral2_50</color>
+</resources>

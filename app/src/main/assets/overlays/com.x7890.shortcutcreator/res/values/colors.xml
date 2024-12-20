@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">@android:color/system_accent1_300</color>
+    <color name="colorBackground">@android:color/system_neutral2_50</color>
+    <color name="colorBackgroundTranslucent">@android:color/system_neutral2_50</color>
+    <color name="colorItemButton">@android:color/system_accent1_600</color>
+    <color name="colorItemButtonText">@android:color/system_neutral2_50</color>
+    <color name="colorItemCardBackgroundDark">@android:color/system_neutral2_50</color>
+    <color name="colorItemCollectedCorner">@android:color/system_accent1_600</color>
+    <color name="colorItemText">@android:color/system_accent1_600</color>
+    <color name="colorPrimary">@android:color/system_accent1_600</color>
+    <color name="colorPrimaryDark">@android:color/system_accent1_600</color>
+    <color name="material_grey_50">@android:color/system_neutral2_50</color>
+</resources>

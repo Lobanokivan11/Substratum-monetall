@@ -55,11 +55,11 @@ android {
     buildFeatures {
         viewBinding = true
     }
-    tasks.register("generateVersionTxt") {
-        doLast {
-            file("./version.txt").writeText(android.defaultConfig.versionName)
-        }
-    }
+	tasks.register("generateVersionTxt") {
+		doLast {
+			file("./version.txt").writeText(android.defaultConfig.versionName)
+		}
+	}
     buildTypes {
         getByName("debug") {
             isMinifyEnabled = false

@@ -34,14 +34,12 @@ jobs:
       run: gradle build
     - name: Build Debug APK
       run: gradle assembleDebug
-    - name: Generate version.txt for Hub release
-      run: gradle generateVersionTxt
     - name: Releasing using Hub
-      uses: valley-fordham/action-release-debugapk@master
+      uses: ShaunLWM/action-release-debugapk@master
       env:
        GITHUB_TOKEN: ${{ secrets.TOKEN }}
        APP_FOLDER: app
-       RELEASE_TITLE: New Build
+       RELEASE_TITLE: Nightly Debug Builds
     - uses: actions/cache@v4
       with:
         path: |

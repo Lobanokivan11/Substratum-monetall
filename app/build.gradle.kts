@@ -28,12 +28,6 @@ val ivKey = ByteArray(16).apply {
     Random().nextBytes(this)
 }
 
-tasks.register("generateVersionTxt") {
-    doLast {
-        file("./version.txt").writeText(android.defaultConfig.versionName)
-    }
-}
-
 android {
 
     compileSdk = 33
@@ -60,6 +54,11 @@ android {
     }
     buildFeatures {
         viewBinding = true
+    }
+    tasks.register("generateVersionTxt") {
+        doLast {
+            file("./version.txt").writeText(android.defaultConfig.versionName)
+        }
     }
     buildTypes {
         getByName("debug") {

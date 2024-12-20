@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="colorPageBackground" id="0x7f010001" />
+    <public type="color" name="salt_color_high_light" id="0x7f01002f" />
+    <public type="color" name="switchBackground" id="0x7f010035" />
+    <public type="color" name="salt_color_dialog_background" id="0x7f010047" />
+    <public type="color" name="salt_color_on_page_background" id="0x7f010048" />
+    <public type="color" name="colorMenuBackground" id="0x7f01004c" />
+    <public type="color" name="cardview_light_background" id="0x7f01004d" />
+    <public type="color" name="salt_color_white" id="0x7f010052" />
+    <public type="color" name="colorEditTextBackground" id="0x7f010059" />
+    <public type="color" name="colorTextForeground" id="0x7f01006b" />
+    <public type="color" name="colorSubTextForeground" id="0x7f01006c" />
+</resources>

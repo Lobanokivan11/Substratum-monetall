@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="material_grey_50" id="0x7f01002f" />
+    <public type="color" name="passport_colorPrimary" id="0x7f010030" />
+    <public type="color" name="qq_page_bg_color" id="0x7f010031" />
+    <public type="color" name="qq_setting_action_bar_bg_color" id="0x7f010032" />
+    <public type="color" name="qq_setting_content_bg_color" id="0x7f010033" />
+    <public type="color" name="skin_sub_mask_color_ivory" id="0x7f010034" />
+    <public type="color" name="skin_floor_color_ivory" id="0x7f010035" />
+    <public type="color" name="qq_bg_color" id="0x7f010036" />
+    <public type="color" name="play_bar_bg" id="0x7f010037" />
+    <public type="color" name="playbar_end_gradient" id="0x7f010038" />
+    <public type="color" name="playbar_start_gradient" id="0x7f010039" />
+    <public type="color" name="player_list_clicked_color" id="0x7f01003a" />
+    <public type="color" name="playlist_item_f" id="0x7f01003b" />
+    <public type="color" name="banner_tips_suc_color" id="0x7f01003c" />
+    <public type="color" name="default_qrc_color" id="0x7f01003d" />
+    <public type="color" name="input_send_btn_background" id="0x7f01003e" />
+    <public type="color" name="mimusicopensdk_22D59C" id="0x7f01003f" />
+    <public type="color" name="player_qrc_color_light_bg" id="0x7f010040" />
+    <public type="color" name="qq_color_green" id="0x7f010041" />
+    <public type="color" name="skin_highlight_color" id="0x7f010042" />
+    <public type="color" name="skin_highlight_selected_color" id="0x7f010043" />
+    <public type="color" name="skin_highlight_selected_color_ivory" id="0x7f010044" />
+    <public type="color" name="skin_text_select_color" id="0x7f010045" />
+</resources>

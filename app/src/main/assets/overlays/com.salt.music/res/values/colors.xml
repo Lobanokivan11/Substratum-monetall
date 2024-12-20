@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPageBackground">@android:color/system_accent1_50</color>
+    <color name="salt_color_high_light">@android:color/system_accent1_500</color>
+    <color name="switchBackground">@android:color/system_accent1_50</color>
+    <color name="salt_color_dialog_background">@android:color/system_accent1_50</color>
+    <color name="salt_color_on_page_background">@android:color/system_neutral2_50</color>
+    <color name="colorMenuBackground">@android:color/system_accent1_50</color>
+    <color name="cardview_light_background">@android:color/system_accent1_50</color>
+    <color name="salt_color_white">@android:color/system_neutral2_50</color>
+    <color name="colorEditTextBackground">@android:color/system_neutral2_50</color>
+    <color name="colorTextForeground">@android:color/system_accent1_600</color>
+    <color name="colorSubTextForeground">@android:color/system_accent1_300</color>
+</resources>

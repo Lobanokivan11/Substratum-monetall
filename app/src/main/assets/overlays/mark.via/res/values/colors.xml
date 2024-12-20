@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="m">@android:color/system_neutral2_50</color>
+    <color name="p">@android:color/system_accent1_600</color>
+    <color name="v">@android:color/system_accent1_600</color>
+    <color name="a2">@android:color/system_neutral2_50</color>
+    <color name="a4">@android:color/system_neutral2_50</color>
+    <color name="a6">@android:color/system_neutral2_50</color>
+    <color name="a8">@android:color/system_neutral2_50</color>
+    <color name="a9">@android:color/system_neutral2_50</color>
+    <color name="ac">@android:color/system_neutral2_50</color>
+    <color name="ak">@android:color/system_neutral2_50</color>
+    <color name="ar">@android:color/system_neutral2_50</color>
+</resources>

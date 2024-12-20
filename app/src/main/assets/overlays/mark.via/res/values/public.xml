@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="m" id="0x7f01000c" />
+    <public type="color" name="p" id="0x7f01000f" />
+    <public type="color" name="v" id="0x7f010015" />
+    <public type="color" name="a2" id="0x7f01001c" />
+    <public type="color" name="a4" id="0x7f01001e" />
+    <public type="color" name="a6" id="0x7f010020" />
+    <public type="color" name="a8" id="0x7f010022" />
+    <public type="color" name="a9" id="0x7f010023" />
+    <public type="color" name="ac" id="0x7f010027" />
+    <public type="color" name="ak" id="0x7f01002f" />
+    <public type="color" name="ar" id="0x7f010036" />
+    <public type="color" name="a" id="0x7f010000" />
+    <public type="color" name="b" id="0x7f010001" />
+    <public type="color" name="c" id="0x7f010002" />
+    <public type="color" name="d" id="0x7f010003" />
+    <public type="color" name="e" id="0x7f010004" />
+    <public type="color" name="g" id="0x7f010006" />
+    <public type="color" name="l" id="0x7f01000b" />
+    <public type="color" name="a1" id="0x7f01001b" />
+    <public type="color" name="a3" id="0x7f01001d" />
+    <public type="color" name="a5" id="0x7f01001f" />
+    <public type="color" name="am" id="0x7f010031" />
+    <public type="color" name="ao" id="0x7f010033" />
+    <public type="color" name="aq" id="0x7f010035" />
+    <public type="color" name="as" id="0x7f010037" />
+    <public type="color" name="au" id="0x7f010039" />
+</resources>

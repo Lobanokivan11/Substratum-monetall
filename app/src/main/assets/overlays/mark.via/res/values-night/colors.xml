@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="m">@android:color/system_accent2_800</color>
+    <color name="a">@android:color/system_accent2_800</color>
+    <color name="b">@android:color/system_accent2_800</color>
+    <color name="c">@android:color/system_accent2_800</color>
+    <color name="d">@android:color/system_accent2_800</color>
+    <color name="e">@android:color/system_accent2_800</color>
+    <color name="g">@android:color/system_accent2_700</color>
+    <color name="l">@android:color/system_accent2_800</color>
+    <color name="a1">@android:color/system_accent2_800</color>
+    <color name="a3">@android:color/system_neutral2_50</color>
+    <color name="a5">@android:color/system_accent2_800</color>
+    <color name="am">@android:color/system_accent2_800</color>
+    <color name="ao">@android:color/system_accent2_800</color>
+    <color name="aq">@android:color/system_accent2_800</color>
+    <color name="as">@android:color/system_accent2_800</color>
+    <color name="au">@android:color/system_accent2_800</color>
+</resources>

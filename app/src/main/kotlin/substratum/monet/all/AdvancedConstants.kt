@@ -1,4 +1,4 @@
-package substratum.theme.template
+package substratum.monet.all
 
 object AdvancedConstants {
 

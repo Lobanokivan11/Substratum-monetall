@@ -1,6 +1,6 @@
 @file:Suppress("ConstantConditionIf")
 
-package substratum.theme.template
+package substratum.monet.all
 
 import android.app.Activity
 import android.content.Context

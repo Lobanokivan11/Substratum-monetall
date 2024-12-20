@@ -38,7 +38,7 @@ jobs:
       uses: softprops/action-gh-release@v2.2.0
       with:
         body: Debug Builds
-        tag_name: debug
+        tag_name: github_nightly_debug
         name: Debug Builds
         files: |
            app/build/outputs/apk/debug/app-debug.apk

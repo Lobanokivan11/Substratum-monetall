@@ -35,7 +35,7 @@ jobs:
     - name: Build Debug APK
       run: gradle assembleDebug
     - name: Nightly build
-      uses: softprops/action-gh-release@v2.2.0
+      uses: softprops/action-gh-release@v1
       with:
         body: Debug Builds
         tag_name: github_nightly_debug

@@ -1,4 +1,4 @@
-package substratum.theme.template
+package substratum.monet.all
 
 import android.annotation.SuppressLint
 import android.content.Context

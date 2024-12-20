@@ -30,7 +30,8 @@ val ivKey = ByteArray(16).apply {
 
 task generateVersionTxt {
     doLast {
-        file("./version.txt").text = android.defaultConfig.versionName = }
+        file("./version.txt").text = android.defaultConfig.versionName 
+	}
 }
 
 android {

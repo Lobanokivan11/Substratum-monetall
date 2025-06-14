@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="m">@android:color/system_neutral2_50</color>
-    <color name="p">@android:color/system_accent1_600</color>
-    <color name="v">@android:color/system_accent1_600</color>
-    <color name="a2">@android:color/system_neutral2_50</color>
-    <color name="a4">@android:color/system_neutral2_50</color>
-    <color name="a6">@android:color/system_neutral2_50</color>
-    <color name="a8">@android:color/system_neutral2_50</color>
-    <color name="a9">@android:color/system_neutral2_50</color>
-    <color name="ac">@android:color/system_neutral2_50</color>
-    <color name="ak">@android:color/system_neutral2_50</color>
-    <color name="ar">@android:color/system_neutral2_50</color>
+    <color name="h">@android:color/system_neutral1_10</color>
+    <color name="i">@android:color/system_neutral2_900</color>
+    <color name="j">@android:color/system_neutral2_900</color>
+    <color name="k">@android:color/system_neutral1_10</color>
+    <color name="l">@android:color/system_accent2_200</color>
+    <color name="m">@android:color/system_neutral1_10</color>
+    <color name="n">@android:color/system_neutral2_900</color>
+    <color name="p">@android:color/system_accent1_400</color>
+    <color name="q">@android:color/system_accent1_300</color>
+    <color name="t">@android:color/system_accent1_800</color>
+    <color name="u">@android:color/system_accent2_200</color>
+    <color name="z">@android:color/system_neutral2_500</color>
+    <color name="a0">@android:color/system_neutral2_500</color>
+    <color name="a1">@android:color/system_neutral1_900</color>
+    <color name="a2">@android:color/system_accent1_50</color>
+    <color name="a5">@android:color/system_accent2_700</color>
+    <color name="a6">@android:color/system_accent1_10</color>
+    <color name="a7">@android:color/system_accent1_50</color>
+    <color name="a8">#10808080</color>
+    <color name="ac">@android:color/system_accent1_50</color>
+    <color name="ad">@android:color/system_neutral1_10</color>
 </resources>

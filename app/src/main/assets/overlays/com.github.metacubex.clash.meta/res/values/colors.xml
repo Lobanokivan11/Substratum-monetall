@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_clash">@android:color/system_accent1_600</color>
+    <color name="color_clash_light">@android:color/system_accent1_600</color>
+    <color name="color_clash_dark">@android:color/system_accent1_400</color>
+    <color name="color_light_background">@android:color/system_neutral2_50</color>
+    <color name="color_dark_background">@android:color/system_neutral2_900</color>
+    <color name="color_light_clash_stopped">@android:color/system_accent1_300</color>
+    <color name="color_launcher_background">@android:color/system_neutral2_50</color>
+    <color name="cardview_light_background">@android:color/system_neutral1_800</color>
+    <color name="cardview_dark_background">@android:color/system_neutral2_50</color>
+    <color name="tooltip_background_light">@android:color/system_neutral1_50</color>
+    <color name="tooltip_background_dark">@android:color/system_neutral1_800</color>
+    <color name="material_grey_50">@android:color/system_neutral2_50</color>
+</resources>

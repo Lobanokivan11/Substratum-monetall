@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_in_card_page">@android:color/system_neutral1_900</color>
+    <color name="common_card_background_color">@android:color/system_neutral1_800</color>
+    <color name="drawable_item_bg_color">@android:color/system_neutral1_800</color>
+    <color name="sku_item_solid_color">@android:color/system_neutral1_800</color>
+    <color name="splash_bg_color">@android:color/system_neutral1_800</color>
+    <color name="window_background">@android:color/system_neutral1_900</color>
+    <color name="primarySecondaryColor">@android:color/system_accent1_300</color>
+    <color name="sku_item_selected_solid_color">@android:color/system_accent1_300</color>
+</resources>

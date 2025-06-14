@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_swipe_refresh_bg">@android:color/system_accent1_600</color>
+    <color name="colorSplashBg">@android:color/system_neutral2_50</color>
+    <color name="colorPrimary">@android:color/system_neutral2_50</color>
+    <color name="cardview_light_background">@android:color/system_neutral2_50</color>
+    <color name="abc_decor_view_status_guard_light">@android:color/system_neutral2_50</color>
+    <color name="default_color_nav">@android:color/system_neutral2_100</color>
+    <color name="default_color_card">@android:color/system_neutral2_50</color>
+    <color name="default_color_background">@android:color/system_neutral2_50</color>
+    <color name="color_text_translucent_light">@android:color/system_neutral2_50</color>
+    <color name="design_dark_default_color_on_surface">@android:color/system_neutral2_50</color>
+    <color name="design_dark_default_color_on_background">@android:color/system_neutral2_50</color>
+    <color name="default_color_toolbar">@android:color/system_neutral1_10</color>
+    <color name="default_color_text_on_primary">@android:color/system_neutral2_50</color>
+    <color name="default_color_swipe_refresh_view_background">@android:color/system_neutral2_50</color>
+    <color name="default_color_window_background">@android:color/system_accent2_50</color>
+    <color name="tieba">@android:color/system_accent2_700</color>
+    <color name="default_color_toolbar_item_active">@android:color/system_accent2_700</color>
+    <color name="default_color_accent">@android:color/system_accent1_700</color>
+    <color name="colorAccent">@android:color/system_accent1_700</color>
+</resources>

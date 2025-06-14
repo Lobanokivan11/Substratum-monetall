@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="floatBallColor_simplegreen">@android:color/system_accent1_600</color>
+    <color name="backgroundLight_simplegreen">@android:color/system_neutral2_50</color>
+    <color name="backgroundWhite_simplegreen">@android:color/system_neutral2_50</color>
+    <color name="bgGray_simplegreen">@android:color/system_accent1_600</color>
+    <color name="colorPrimary_simplegreen">@android:color/system_accent1_400</color>
+    <color name="textColorLight_simplegreen">@android:color/system_neutral2_50</color>
+    <color name="white_simplegreen">@android:color/system_neutral2_10</color>
+    <color name="colorPrimaryText_simplegreen">@android:color/system_accent1_600</color>
+    <color name="textColorBudget_simplegreen">@android:color/system_neutral2_50</color>
+    <color name="white">@android:color/system_neutral2_10</color>
+    <color name="colorPrimaryLight_simplegreen">@android:color/system_accent1_400</color>
+    <color name="colorPrimaryDark_simplegreen">@android:color/system_accent1_700</color>
+    <color name="colorPrimaryLightNoAlpha_simplegreen">@android:color/system_accent1_100</color>
+    <color name="textColorWhite_simplegreen">@android:color/system_neutral2_50</color>
+    <color name="textColorPrimary_simplegreen">@android:color/system_accent1_600</color>
+    <color name="colorPrimaryAlpha50_simplegreen">@android:color/system_neutral2_200</color>
+    <color name="budgetProgressFinish_simplegreen">@android:color/system_accent1_600</color>
+    <color name="budgetProgressUnFinish_simplegreen">@android:color/system_neutral2_50</color>
+    <color name="colorPrimaryAlpha30_simplegreen">@android:color/system_accent1_100</color>
+    <color name="colorPrimaryAlpha10_simplegreen">@android:color/system_neutral2_50</color>
+</resources>

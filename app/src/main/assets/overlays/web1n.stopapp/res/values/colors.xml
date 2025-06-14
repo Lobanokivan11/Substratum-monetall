@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="f">@android:color/system_accent1_600</color>
+    <color name="g">@android:color/system_neutral2_50</color>
+    <color name="p">@android:color/system_neutral2_50</color>
+    <color name="q">@android:color/system_neutral2_50</color>
+    <color name="a4">@android:color/system_neutral2_50</color>
+    <color name="aa">@android:color/system_neutral2_50</color>
+    <color name="ab">@android:color/system_neutral2_50</color>
+    <color name="ae">@android:color/system_accent2_800</color>
+    <color name="af">@android:color/system_neutral2_50</color>
+    <color name="ai">@android:color/system_accent1_600</color>
+    <color name="aj">@android:color/system_neutral2_50</color>
+    <color name="al">@android:color/system_neutral2_50</color>
+    <color name="as">@android:color/system_neutral2_50</color>
+    <color name="az">@android:color/system_accent1_600</color>
+    <color name="b4">@android:color/system_accent1_600</color>
+    <color name="b8">@android:color/system_neutral2_50</color>
+    <color name="b9">@android:color/system_accent1_600</color>
+    <color name="b_">@android:color/system_neutral2_50</color>
+    <color name="ba">@android:color/system_neutral2_50</color>
+    <color name="bd">@android:color/system_neutral2_50</color>
+    <color name="be">@android:color/system_neutral2_50</color>
+    <color name="bf">@android:color/system_neutral2_50</color>
+    <color name="bg">@android:color/system_neutral2_50</color>
+    <color name="bh">@android:color/system_neutral2_50</color>
+    <color name="bi">@android:color/system_neutral2_50</color>
+    <color name="br">@android:color/system_neutral1_300</color>
+    <color name="bs">@android:color/system_accent2_800</color>
+    <color name="cn">@android:color/system_accent2_800</color>
+    <color name="cp">@android:color/system_neutral2_50</color>
+    <color name="ct">@android:color/system_neutral2_50</color>
+    <color name="d3">@android:color/system_accent1_600</color>
+    <color name="da">@android:color/system_accent1_600</color>
+    <color name="dc">@android:color/system_neutral1_300</color>
+    <color name="dh">@android:color/system_neutral2_50</color>
+</resources>

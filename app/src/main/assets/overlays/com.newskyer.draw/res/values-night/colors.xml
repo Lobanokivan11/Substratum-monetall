@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_color_light_blue">@android:color/system_accent1_300</color>
+    <color name="base_background_color">@android:color/system_accent2_800</color>
+    <color name="icon_color4">@android:color/system_accent2_800</color>
+    <color name="left_menu_bg">@android:color/system_accent2_900</color>
+    <color name="note_list_bg_color">@android:color/system_accent2_800</color>
+    <color name="panel_toolbar">@android:color/system_accent2_900</color>
+    <color name="status_color">@android:color/system_accent2_900</color>
+    <color name="writing_bg_color">@android:color/system_accent2_900</color>
+    <color name="colorControlHightlight">@android:color/system_accent1_300</color>
+    <color name="folder_cover_bg2">@android:color/system_accent2_900</color>
+    <color name="line_color_bs">@android:color/system_accent2_900</color>
+</resources>

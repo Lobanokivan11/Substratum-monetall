@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorWhiteLight">@android:color/system_neutral2_50</color>
+    <color name="colorGrayBg">@android:color/system_neutral2_100</color>
+    <color name="colorAccent">@android:color/system_accent1_600</color>
+    <color name="colorPrimary">@android:color/system_accent1_600</color>
+    <color name="colorWhite">@android:color/system_neutral2_50</color>
+    <color name="color_GrayBgButton">@android:color/system_neutral2_100</color>
+    <color name="colorBlue">@android:color/system_accent1_600</color>
+    <color name="colorBlueBg">@android:color/system_neutral2_10</color>
+    <color name="tooltip_backgroud_light">@android:color/system_neutral2_50</color>
+    <color name="colorPrimaryLight">@android:color/system_accent1_600</color>
+    <color name="colorBlackText">@android:color/system_accent1_600</color>
+</resources>

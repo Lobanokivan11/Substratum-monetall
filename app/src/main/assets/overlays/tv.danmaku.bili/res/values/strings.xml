@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement_user_link">作者：酷安@ylrs113</string>
+    <string name="count_down_snack_bar_count_down_default_color_str">@android:color/system_accent1_600</string>
+    <string name="mine_goto_space">个人主页</string>
+    <string name="pref_title_business_cooperation">作者：冶炼人生 || 酷安@ylrs113</string>
+    <string name="pref_title_privacy">monet交流群：533520915</string>
+</resources>

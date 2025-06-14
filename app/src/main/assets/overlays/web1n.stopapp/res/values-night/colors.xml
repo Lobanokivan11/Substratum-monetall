@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ai">@android:color/system_accent1_600</color>
+    <color name="al">@android:color/system_accent2_800</color>
+    <color name="b8">@android:color/system_neutral2_50</color>
+    <color name="b9">@android:color/system_accent1_600</color>
+    <color name="an">@android:color/system_neutral2_50</color>
+    <color name="db">@android:color/system_neutral2_50</color>
+</resources>

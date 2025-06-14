@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_background">@android:color/system_neutral2_50</color>
+    <color name="color_primary">@android:color/system_accent1_600</color>
+    <color name="color_secondary_light">@android:color/system_accent1_600</color>
+    <color name="color_secondary_little">@android:color/system_accent1_400</color>
+    <color name="color_secondary_trans">@android:color/system_accent1_200</color>
+    <color name="theme_color_blue">@android:color/system_accent1_600</color>
+    <color name="theme_dark_color_secondary">@android:color/system_accent1_600</color>
+</resources>

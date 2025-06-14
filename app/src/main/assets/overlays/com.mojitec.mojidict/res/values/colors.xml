@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Basic_Divider_Color">@android:color/system_neutral2_50</color>
+    <color name="Basic_Divider_Color_Light">@android:color/system_neutral2_50</color>
+    <color name="Basic_Input_Box_Color">@android:color/system_neutral2_50</color>
+    <color name="Basic_Input_Box_Color_Light">@android:color/system_neutral2_100</color>
+    <color name="Basic_Primary_Color">@android:color/system_accent1_600</color>
+    <color name="Basic_Secondary_Instructions">@android:color/system_neutral2_200</color>
+    <color name="Basic_Title_Color_Dark">@android:color/system_neutral2_50</color>
+    <color name="Basic_Title_Color">@android:color/system_accent1_600</color>
+    <color name="Basic_Title_Color_night">@android:color/system_accent1_600</color>
+    <color name="Basic_Window_Color">@android:color/system_neutral2_50</color>
+    <color name="Basic_Words_Explain">@android:color/system_neutral2_200</color>
+    <color name="N_white">@android:color/system_neutral2_50</color>
+    <color name="color_3a3a3a">@android:color/system_accent1_600</color>
+    <color name="color_fafafa">@android:color/system_neutral2_50</color>
+    <color name="color_ffffff">@android:color/system_neutral2_50</color>
+    <color name="defaultColor">@android:color/system_neutral2_50</color>
+    <color name="user_profile_bg_divider_color">@android:color/system_neutral2_50</color>
+    <color name="view_bg_color">@android:color/system_neutral2_50</color>
+    <color name="word_detail_background_color">@android:color/system_neutral2_50</color>
+    <color name="word_detail_header_title_color">@android:color/system_accent1_600</color>
+    <color name="word_detail_white_background">@android:color/system_neutral2_50</color>
+    <color name="word_detail_white_bg_second">@android:color/system_neutral2_50</color>
+    <color name="design_snackbar_background_color">@android:color/system_neutral2_50</color>
+    <color name="folder_picker_selected_color">@android:color/system_accent1_400</color>
+    <color name="color_f8f8f8">@android:color/system_neutral2_50</color>
+</resources>
